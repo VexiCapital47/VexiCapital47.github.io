@@ -82,7 +82,7 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification :
+google_site_verification :"wpS7lDe_HCr6OV4p0Ky9YOfaS4cu2gDh56ey8K1leIE" 
 bing_site_verification   :
 naver_site_verification  : "13eb040235b04f1e98e05ea18902d08c9c952e7d"
 yandex_site_verification :
